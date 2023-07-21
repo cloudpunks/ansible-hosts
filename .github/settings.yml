@@ -1,6 +1,6 @@
 ---
 repository:
-  name: hosts
+  name: ansible-hosts
   description: Ansible role to manipulate the local hosts configuration
   topics: ansible, role, ansible-role, hacktoberfest
 
